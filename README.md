@@ -160,11 +160,11 @@
    <h1> This is all about me! </h1>
 
    <ul>
-       <li style = "color:blue">Name:LEE JIEUN</li>
-       <li style = "color:blue">School: School of the art institute of Chicago</li>
-       <li style = "color:blue">Major: VISCOM|FILM| NEW MEDIA</li>
-       <li style = "color:blue">Skills: Photoshop|Illustrator|Indesign|Premier pro|Lightroom|After effect</li>
-       <li style = "color:blue">Language: Korean|English|Japanese
+       <li style = "color:skyblue">Name:LEE JIEUN</li>
+       <li style = "color:skyblue">School: School of the art institute of Chicago</li>
+       <li style = "color:skyblue">Major: VISCOM|FILM| NEW MEDIA</li>
+       <li style = "color:skyblue">Skills: Photoshop|Illustrator|Indesign|Premier pro|Lightroom|After effect</li>
+       <li style = "color:skyblue">Language: Korean|English|Japanese
   
   
   
@@ -252,7 +252,7 @@
         <ul>
           <li>Only</li>
           <li>For</li>
-          <li>DPractice</li>
+          <li>Practice</li>
         </ul>
       </div>
       <div id="jb-footer">
@@ -322,84 +322,3 @@
    
    
   
-<html lang="ko">
-  <head>
-      <meta charset="utf-8">
-      <title>CSS</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-      #jb-container {
-        width: 300px;
-        margin: 10px auto;
-        padding: 20px;
-        border: 1px solid #bcbcbc;
-      }
-      #jb-header {
-        padding: 10px;
-        margin-bottom: 10px;
-        border: 1px solid #bcbcbc;
-      }
-      #jb-content {
-        width: 200px;
-        padding: 20px;
-        margin-bottom: 20px;
-        float: left;
-        border: 1px solid #bcbcbc;
-      }
-      #jb-sidebar {
-        width: 160px;
-        padding: 20px;
-        margin-bottom: 20px;
-        float: right;
-        border: 1px solid #bcbcbc;
-      }
-      #jb-footer {
-        clear: both;
-        padding: 20px;
-        border: 1px solid #bcbcbc;
-      }
-      @media ( max-width: 480px ) {
-        #jb-container {
-          width: auto;
-        }
-        #jb-content {
-          float: none;
-          width: auto;
-        }
-        #jb-sidebar {
-          float: none;
-          width: auto;
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <div id="jb-container">
-      <div id="jb-header">
-        <h1>Information</h1>
-      </div>
-      <div id="jb-content">
-        <h2>Jieun Lee</h2>
-        <p>Hi, My name is Jieun Lee. This is my first repo page. It is all about me.</p>
-      </div>
-      <div id="jb-sidebar">
-        <h2>Sidebar</h2>
-        <ul>
-          <li>Only</li>
-          <li>For</li>
-          <li>DPractice</li>
-        </ul>
-      </div>
-      <div id="jb-footer">
-        <p>Copyright</p>
-      </div>
-    </div>
-  </body>
-</html>
-
-
-
-         
-
-
-         
