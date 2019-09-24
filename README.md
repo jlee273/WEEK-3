@@ -28,8 +28,11 @@
   
    
    <ul>
-   <li>My name is 'LEE JIEUN"</li>
-   <li>My pronounce is 'SHE/HER'</li>
+       <li>My name is 'LEE JIEUN"</li>
+       <li>My pronounce is 'SHE/HER'</li>
+   </ul>
+   
+   
    
 
          
