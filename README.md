@@ -17,3 +17,14 @@
       </ul>
       
 
+# Introduction
+
+<html>
+   
+<body>
+   
+   <h1> Hi, My name is JIEUN LEE! </h1>
+   
+   <ul>
+   <li>My pronounce is 'SHE/HER'</li>
+         
