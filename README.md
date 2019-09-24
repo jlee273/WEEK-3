@@ -26,8 +26,7 @@
 <body>
    
    <h1> Introduction </h1>
-   
-  
+ 
    
    <ul>
        <li>My name is 'LEE JIEUN"</li>
