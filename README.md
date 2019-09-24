@@ -16,7 +16,8 @@
        <li style = "color:blue">Major: VISCOM|FILM| NEW MEDIA</li>
        <li style = "color:blue">Skills: Photoshop|Illustrator|Indesign|Premier pro|Lightroom|After effect</li>
        <li style = "color:blue">Language: Korean|English|Japanese
-      </ul>
+  
+  </ul>
       
 
 
