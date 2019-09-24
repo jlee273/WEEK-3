@@ -56,7 +56,7 @@
         border: 1px solid #bcbcbc;
       }
       #jb-content {
-        width: 300px;
+        width: 200px;
         padding: 20px;
         margin-bottom: 20px;
         float: left;
@@ -101,9 +101,9 @@
       <div id="jb-sidebar">
         <h2>Sidebar</h2>
         <ul>
-          <li>Lorem</li>
-          <li>Ipsum</li>
-          <li>Dolor</li>
+          <li>Only</li>
+          <li>For</li>
+          <li>DPractice</li>
         </ul>
       </div>
       <div id="jb-footer">
