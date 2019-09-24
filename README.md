@@ -17,7 +17,8 @@
        <li style = "color:blue">Skills: Photoshop|Illustrator|Indesign|Premier pro|Lightroom|After effect</li>
        <li style = "color:blue">Language: Korean|English|Japanese
   
-  </ul>
+
+# INTRODUCTION
       
 
 
@@ -26,7 +27,7 @@
    
 <body>
    
-   <h1> Introduction </h1>
+   <h1> Let me introduce myself </h1>
  
    
    <ul>
