@@ -1,6 +1,6 @@
 # ALL ABOUT ME
 
-<DOCTYPE! html>
+
 
 <html>
 
