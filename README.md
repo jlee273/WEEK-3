@@ -1,12 +1,13 @@
 # myfirstrepo
-<!doctype html>
+
 <html>
 <head>
   <meta charset="UTF -8">
   <title> ALL ABOUT ME</title>
-  </head>
+  <head>
   <body>
-    this is ALL ABOUT ME page.
+    <a href="3' target="_self"></a>
+                              this is ALL ABOUT ME page.
     </body>
     </html>
 <body>
@@ -14,8 +15,10 @@
   </body>
   </html>
 <head>
-  <meta charset="UTF -8">
-  <title> "Lee Jieun"
+  <html>
+  <head>
+                              <meta charset="UTF =8">
+                                                    <title>Lee Jieun
     </head>
   <body>
     Name:Jieun Lee
