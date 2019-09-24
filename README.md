@@ -1,4 +1,4 @@
-# ALLABOUTME
+# ALL ABOUT ME
 
 <html>
 <head>
