@@ -45,7 +45,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
       #jb-container {
-        width: 940px;
+        width: 300px;
         margin: 10px auto;
         padding: 20px;
         border: 1px solid #bcbcbc;
