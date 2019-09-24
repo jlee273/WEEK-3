@@ -113,6 +113,25 @@
   </body>
 </html>
 
+<!doctype html>
+<html lang="ko">
+  <head>
+  <meta charset="utf-8">
+    <title>HTML</title>
+    <style>
+      * {
+        font-size: 16px;
+        font-family: Consolas, sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <form>
+      <p><input type="date" value="2019-09-22" min="2019-09-10" max="2019-09-25"></p>
+      <p><input type="submit" value="Submit"></p>
+    </form>
+  </body>
+</html>
 
    
 
