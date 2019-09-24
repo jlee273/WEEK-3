@@ -11,11 +11,11 @@
    <h1> This is all about me! </h1>
 
    <ul>
-       <li style = "color:pink">Name:LEE JIEUN</li>
-       <li style = "color:pink">School: School of the art institute of Chicago</li>
-       <li style = "color:pink">Major: VISCOM|FILM| NEW MEDIA</li>
-       <li style = "color:pink">Skills: Photoshop|Illustrator|Indesign|Premier pro|Lightroom|After effect</li>
-       <li style = "color:pink">Language: Korean|English|Japanese
+       <li style = "color:blue">Name:LEE JIEUN</li>
+       <li style = "color:blue">School: School of the art institute of Chicago</li>
+       <li style = "color:blue">Major: VISCOM|FILM| NEW MEDIA</li>
+       <li style = "color:blue">Skills: Photoshop|Illustrator|Indesign|Premier pro|Lightroom|After effect</li>
+       <li style = "color:blue">Language: Korean|English|Japanese
       </ul>
       
 
@@ -30,4 +30,6 @@
    <ul>
    <li>My name is 'LEE JIEUN"</li>
    <li>My pronounce is 'SHE/HER'</li>
+   
+
          
