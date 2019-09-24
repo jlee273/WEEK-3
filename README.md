@@ -17,9 +17,9 @@
        <li style = "color:blue">Skills: Photoshop|Illustrator|Indesign|Premier pro|Lightroom|After effect</li>
        <li style = "color:blue">Language: Korean|English|Japanese
   
-  # INTRODUCTION
   
-  # INTRODUCTION
+  
+ 
       
 
 
